@@ -34,6 +34,7 @@ The model achieved an accuracy of 99% on the test set. The following metrics wer
 - Precision
 - Recall
 - F1 Score
+You can read the analysis report in the [report.md](report.md) file. 
 
 ## Conclusion
 This project demonstrates the application of machine learning techniques to classify credit risk.
