@@ -31,3 +31,5 @@ Here are the results:
 ## Summary
 
 The logistic regression model performed very well in predicting credit risk. With an accuracy of 0.99, the model is very reliable. The precision scores indicate that the model is very precise at predicting low credit risk (Prediction 0: 1.00) and pretty precise at predicting high credit risk (Prediction 1: 0.84). The recall scores indicate the model is great at identifying low credit risk situations (Prediction 0: 0.99) and also does good at identifying high credit risk cases (Prediction 1: 0.94). Overall, the model demonstrates good performance in both precision and recall, making it a great tool for credit risk classification.
+
+I would use this particular model in this situation because it did very well in the testing phase, with an overall accuracy score of 99%.
